@@ -46,3 +46,25 @@ figure figcaption {
   margin-top: -10px;
   padding-bottom: 20px;
 }
+
+/* #tribute-info */
+#tribute-info,
+#tribute-link {
+  width: 35%;
+  margin: 0 auto;
+}
+
+#tribute-info h4 {
+  text-align: center;
+  font-size: 17px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.time-line li {
+  padding-bottom: 20px;
+}
+
+.time-line li .bolds {
+  font-weight: bold;
+}
