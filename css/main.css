@@ -69,3 +69,19 @@ figure figcaption {
   font-weight: bold;
   color: #333;
 }
+
+/* blockquote */
+blockquote {
+  margin-left: 25px;
+  margin-top: 30px;
+  margin-bottom: 40px;
+}
+
+blockquote p {
+  text-align: justify;
+  font-style: italic;
+}
+
+blockquote cite {
+  color: #333;
+}
