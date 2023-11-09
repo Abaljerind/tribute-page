@@ -85,3 +85,9 @@ blockquote p {
 blockquote cite {
   color: #333;
 }
+
+/* #tribute-link */
+#tribute-link p {
+  font-weight: bold;
+  font-size: 17px;
+}
